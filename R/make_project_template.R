@@ -24,7 +24,8 @@ make_project_template <- function(path, ...) {
       '.RData',
       '.Ruserdata',
       '.Rproj.user/',
-      '.Renviron'
+      '.Renviron',
+      'data_raw/*'
       )
 
     writeLines(paste(git_ignores, sep = '\n'), file.path(path, '.gitignore'))
