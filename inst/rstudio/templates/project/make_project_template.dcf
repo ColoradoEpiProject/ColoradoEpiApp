@@ -1,3 +1,10 @@
 Binding: make_project_template
 Title: Colorado Epi App Template
-OpenFiles: INDEX
+OpenFiles: README.md
+# Icon: cdphe_logo.png
+
+Parameter: createShiny
+Widget: CheckboxInput
+Label: Create shiny/ folder
+Default: On
+Position: right
