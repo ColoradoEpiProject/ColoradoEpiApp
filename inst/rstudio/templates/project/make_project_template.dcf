@@ -1,6 +1,6 @@
 Binding: make_project_template
 Title: Colorado Epi App Template
-OpenFiles: README.md
+OpenFiles: README.Rmd
 # Icon: cdphe_logo.png
 
 Parameter: createShiny
