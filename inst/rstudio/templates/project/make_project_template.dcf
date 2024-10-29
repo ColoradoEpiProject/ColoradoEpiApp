@@ -1,7 +1,7 @@
 Binding: make_project_template
 Title: Colorado Epi App Template
 OpenFiles: README.Rmd
-# Icon: cdphe_logo.png
+Icon: cdphe-logo.png
 
 Parameter: createShiny
 Widget: CheckboxInput
