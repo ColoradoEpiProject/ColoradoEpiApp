@@ -9,6 +9,8 @@ make_project_template <- function(path, ...) {
   dir.create(file.path(path, "R/requests"), recursive = TRUE, showWarnings = FALSE)
   dir.create(file.path(path, "data_raw"), recursive = TRUE, showWarnings = FALSE)
   dir.create(file.path(path, "reference"), recursive = TRUE, showWarnings = FALSE)
+  dir.create(file.path(path, "z_other"), recursive = TRUE, showWarnings = FALSE)
+  dir.create(file.path(path, "z_old"), recursive = TRUE, showWarnings = FALSE)
 
   # Check selected folder
   if(dots[["createShiny"]]){
