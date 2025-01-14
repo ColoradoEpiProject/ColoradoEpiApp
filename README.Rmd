@@ -10,4 +10,7 @@ To install this package, run the following code:
 devtools::install_github("ColoradoEpiProject/ColoradoEpiApp")
 ```
 
-<a href="https://www.flaticon.com/free-icons/mountain" title="mountain icon">Mountain icon created by Nikita Golubev - Flaticon</a>
+After installing the ColoradoEpiApp package, you can select the ColoradoEpiApp 
+template from 
+
+<a href="https://www.flaticon.com/free-icons/mountain" title="mountain icons">Mountain icons created by Freepik - Flaticon</a>

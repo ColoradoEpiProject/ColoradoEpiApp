@@ -2,8 +2,8 @@ Package: ColoradoEpiApp
 Type: Package
 Title: A Standardized Strategy for Repository Organization
 Version: 0.1.0
-Author: Rachel Severson
-Maintainer: rlseverson6@gmail.com
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
 Description: The ColoradoEpiApp package is a template that you can 
     use to create new repositories. 
 License: MIT + file LICENSE
